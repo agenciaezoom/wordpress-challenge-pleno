@@ -1,6 +1,6 @@
 # Wordpress Challenge Pleno
 
-## Teste para a vaga de Frontend Pleno
+## Teste para a vaga de Wordpress Pleno
 
 - O prazo de entrega do teste é de até 4 dias, mas caso você tenha algum imprevisto sinalize o novo prazo e o motivo;
 - O mais importante é você desenvolver as skills solicitadas ou passar um tempo a mais demonstrando suas habilidades do que entregar algo incompleto ou que não atenda todos os requisitos deste teste.
