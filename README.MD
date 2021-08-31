@@ -28,3 +28,6 @@ Bem, infelizmente, problemas para serem resolvidos no fim de semana e não conse
 O formulário do MailChimp colocado através do plugin ElementsKit_Lite, porém não cheguei a criar uma conta na ferramenta pra colocar um token para efetivar a funcionalidade da área.
 
 OBS: Como o objetivo do teste era o desenvolvimento desta página, não cheguei a estilizar as demais, porém elas foram elevados para fazer o menu. então os links são redirecionados dos menus e a busca são redirecionadas para suas páginas, porém nenhum tema padrão do wordpress. Demais links sem redirecionamento.
+
+
+Para visualizar o site acesse:  https://sitedemo.pixmoretech.com/
